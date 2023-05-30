@@ -1,11 +1,10 @@
-<h1 align="center">Hey, I'm Latestion</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latestion&label=Profile%20views&color=0e75b6&style=flat" alt="latestion" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=latestion" alt="latestion" /></a> </p>
+![logo](https://github.com/Latestion/latestion/blob/main/Latestion!%20(2).gif)
 
 <p align="left"> <a href="https://twitter.com/latestion" target="blank"><img src="https://img.shields.io/twitter/follow/latestion?logo=twitter&style=for-the-badge" alt="latestion" /></a> </p>
 
-- 📫 How to reach me **Latestion#0529 Or latestion.dev@gmail.com**
+- 📫 How to reach me 
+  - **Latestion#0529**  
+  - **latestion.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
